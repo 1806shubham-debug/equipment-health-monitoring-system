@@ -53,12 +53,6 @@ and provides:
 
 ---
 
-## Project Images
-
-(Add screenshots here)
-
----
-
 ## Future Scope
 
 - AI-based failure prediction
